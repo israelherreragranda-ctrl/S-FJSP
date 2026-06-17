@@ -25,7 +25,7 @@ To compile and execute this software, the following environment is required:
 5. The optimization outputs will be displayed in the compilation log, and three CSV files (`individual_result.csv`, `pareto_frontier.csv`, and `detailed_assignments.csv`) will be automatically generated in your working directory.
 
 ## Authors
-- Israel D. Herrera-Granda (Universidad Politécnica Estatal del Carchi / Universitat Politècnica de València)
+- Israel D. Herrera-Granda (Universidad Politécnica Estatal del Carchi)
 
 ## Acknowledgements
 This software was developed with the support of Universidad Politécnica Estatal del Carchi (UPEC), Tulcán-Ecuador, through funds allocated to the research project "Modelos De Optimización De Operaciones De La Cadena De Suministro" (Code: DIIN-2026-09).
